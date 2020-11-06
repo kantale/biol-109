@@ -8,7 +8,7 @@
 [Αλέξανδρος Καντεράκης](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0§).
 
 ## Επικοινωνία
-Για την άμεση επικοινωνία τόσο με τον διδάσκοντα όσο και με τους συμφοιτητές σας, θα πρέπει να γραφτείτε στο κανάλι slack: [biol-109.slack.com](biol-109.slack.com). Θα πρέπει να έχετε λάβει μέιλ με ένα invitation για να γραφτείτε, αν όχι, τότε στείλε [mail](mailto:kantale@ics.forth.gr).
+Για την άμεση επικοινωνία τόσο με τον διδάσκοντα όσο και με τους συμφοιτητές σας, θα πρέπει να γραφτείτε στο κανάλι slack: [biol-109.slack.com](https://biol-109.slack.com). Θα πρέπει να έχετε λάβει μέιλ με ένα invitation για να γραφτείτε, αν όχι, τότε στείλε [mail](mailto:kantale@ics.forth.gr).
 
 Το μέιλ του διδάσκοντα είναι: [kantale@ics.forth.gr](mailto:kantale@ics.forth.gr). Χρησιμοποιήστε το μόνο αν δεν μπορεί να γίνει η επικοινωνία μέσω slack.
 
