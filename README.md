@@ -18,3 +18,4 @@
 
 ### Διαλέξεις
 * Πέμπτη, 5 Νοεμβρίου 2020, [Διάλεξη 1](https://www.dropbox.com/s/g377o8q4ni3k654/BIOL-109_lesson_1.pptx?dl=0)
+* Πέμπτη, 12 Νοεμβρίου 2020 [Διάλεξη 2](https://www.dropbox.com/s/iy8y5fkguldej80/BIOL-109_lesson_2.pptx?dl=0)
