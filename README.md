@@ -20,4 +20,7 @@
 * Πέμπτη, 5 Νοεμβρίου 2020, [Διάλεξη 1](https://www.dropbox.com/s/g377o8q4ni3k654/BIOL-109_lesson_1.pptx?dl=0)
 * Πέμπτη, 12 Νοεμβρίου 2020 [Διάλεξη 2](https://www.dropbox.com/s/iy8y5fkguldej80/BIOL-109_lesson_2.pptx?dl=0)
 * Τετάρτη, 18 Νοεμβρίου 2020 [Διάλεξη 3](https://www.dropbox.com/s/b11pkxqix2h5ids/BIOL-109_lesson_3.pptx?dl=0)
-* Πέμπτη, 19 Νοεμβρίου 2020 [Διάλεξη 4, μέρος 1](https://www.dropbox.com/s/d2dkocmjecdieja/BIOL-109_lesson_4a.pptx?dl=0)
+* Πέμπτη, 19 Νοεμβρίου 2020
+   * [Διάλεξη 4, μέρος 1](https://www.dropbox.com/s/d2dkocmjecdieja/BIOL-109_lesson_4a.pptx?dl=0)
+   * [Διάλεξη 4, μέρος 2](https://www.dropbox.com/s/y07z790km2xmn5f/BIOL-109_lesson_4b.pptx?dl=0)
+
