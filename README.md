@@ -13,6 +13,7 @@
 Το μέιλ του διδάσκοντα είναι: [kantale@ics.forth.gr](mailto:kantale@ics.forth.gr). Χρησιμοποιήστε το μόνο αν δεν μπορεί να γίνει η επικοινωνία μέσω slack.
 
 ### Ώρες
+* Τετάρτη 18:00 - 20:00
 * Πέμπτη 18:00 - 20:00 
 
 
@@ -23,5 +24,5 @@
 * Πέμπτη, 19 Νοεμβρίου 2020
    * [Διάλεξη 4, μέρος 1](https://www.dropbox.com/s/d2dkocmjecdieja/BIOL-109_lesson_4a.pptx?dl=0)
    * [Διάλεξη 4, μέρος 2](https://www.dropbox.com/s/y07z790km2xmn5f/BIOL-109_lesson_4b.pptx?dl=0)
- * Τετάρτη, 25 Νοεμβρίου 2020 [Διάλεξη 5](https://www.dropbox.com/s/81xxscd7iduzpzc/BIOL-109_lesson_5.pptx?dl=0)
-
+* Τετάρτη, 25 Νοεμβρίου 2020 [Διάλεξη 5](https://www.dropbox.com/s/81xxscd7iduzpzc/BIOL-109_lesson_5.pptx?dl=0)
+* Πέμπτη, 26 Νοεμβρίου 2020 [Διάλεξη 6](https://www.dropbox.com/s/t0pngfulpobjpem/BIOL-109_lesson_6.pptx?dl=0)
