@@ -26,3 +26,47 @@
    * [Διάλεξη 4, μέρος 2](https://www.dropbox.com/s/y07z790km2xmn5f/BIOL-109_lesson_4b.pptx?dl=0)
 * Τετάρτη, 25 Νοεμβρίου 2020 [Διάλεξη 5](https://www.dropbox.com/s/81xxscd7iduzpzc/BIOL-109_lesson_5.pptx?dl=0)
 * Πέμπτη, 26 Νοεμβρίου 2020 [Διάλεξη 6](https://www.dropbox.com/s/t0pngfulpobjpem/BIOL-109_lesson_6.pptx?dl=0)
+
+### Ασκήσεις
+#### Γενικές
+[Πηγή](https://www.w3resource.com/r-programming-exercises/basic/index.php)
+1. Write a R program to create a sequence of numbers from 20 to 50 and find the mean of numbers from 20 to 60 and sum of numbers from 51 to 91
+2. Write a R program to create a vector which contains 10 random integer values between -50 and +50.
+3. Write a R program to get the first 10 Fibonacci numbers.
+4. Write a R program to get all prime numbers up to a given number
+5. Write a R program to print the numbers from 1 to 100 and print "Fizz" for multiples of 3, print "Buzz" for multiples of 5, and print "FizzBuzz" for multiples of both.
+6. Write a R program to find the factors of a given number.
+7. Write a R program to find the maximum and the minimum value of a given vector.
+8. Write a R program to get the unique elements of a given string and unique numbers of vector. <-- ΠΟΛΥ ΚΑΛΗ!
+9. Write a R program to create three vectors a,b,c with 3 integers. Combine the three vectors to become a 3×3 matrix where each column represents a vector. Print the content of the matrix
+10. Write a R program to compute sum, mean and product of a given vector elements. 
+
+#### Λίστες (Lists)
+[πηγή](https://www.w3resource.com/r-programming-exercises/list/index.php)
+
+1. Write a R program to create a list containing strings, numbers, vectors and a logical values.
+2. Write a R program to list containing a vector, a matrix and a list and give names to the elements in the list.
+3. Write a R program to create a list containing a vector, a matrix and a list and give names to the elements in the list. Access the first and second element of the list.
+4. Write a R program to create a list containing a vector, a matrix and a list and add element at the end of the list.
+5. Write a R program to select second element of a given nested list.
+6. Write a R program to create a list containing a vector, a matrix and a list and remove the second element.
+7. Write a R program to create a list containing a vector, a matrix and a list and update the last element.
+8. Write a R program to merge two given lists into one list.
+9. Write a R program to convert a given list to vector
+10. Write a R program to count number of objects in a given list
+11. Write a R program to Add 10 to each element of the first vector in a given list
+12. Write a R program to extract all elements except the third element of the first vector of a given list.
+13. Write a R program to add a new item g4 = "Python" to a given list.    
+14. Write a R program to assign new names "a", "b" and "c" to the elements of a given list.
+15. Write a R program to get the length of the first two vectors of a given list.
+16. Write a R program to find all elements of a given list that are not in another given list. 
+
+#### Πίνακες (matrices):
+[πηγή]( https://www.w3resource.com/r-programming-exercises/matrix/index.php)
+1. Write a R program to access the element at 3rd column and 2nd row, only the 3rd row and only the 4th column of a given matrix
+2. Write a R program to create two 2x3 matrix and add, subtract, multiply and divide the matrixes.
+3. Write a R program to find row and column index of maximum and minimum value in a given matrix
+4. Write a R program to concatenate two given matrices of same column but different rows.
+
+
+
