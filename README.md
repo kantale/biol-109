@@ -27,6 +27,7 @@
 * Τετάρτη, 25 Νοεμβρίου 2020 [Διάλεξη 5](https://www.dropbox.com/s/81xxscd7iduzpzc/BIOL-109_lesson_5.pptx?dl=0)
 * Πέμπτη, 26 Νοεμβρίου 2020 [Διάλεξη 6](https://www.dropbox.com/s/t0pngfulpobjpem/BIOL-109_lesson_6.pptx?dl=0)
 * Τετάρτη, 2 Δεκμβρίου 2020 [Διάλεξη 7](https://www.dropbox.com/s/j9u3lgj5ae1m6lj/BIOL-109_lesson_7.pptx?dl=0)
+* Πέμπτη, 3 Δεκεμβρίου 2020 [Διάλεξη 8](https://www.dropbox.com/s/gt3mvjxzh2mufvt/BIOL-109_lessos_8.pptx?dl=0)
 
 ### Ασκήσεις
 #### Γενικές
