@@ -30,7 +30,7 @@
 * Πέμπτη, 3 Δεκεμβρίου 2020 [Διάλεξη 8](https://www.dropbox.com/s/gt3mvjxzh2mufvt/BIOL-109_lessos_8.pptx?dl=0)
 * Τετάρτη, 9 Δεκεμβρίου 2020 [Διάλεξη 9](https://www.dropbox.com/s/82piw4ul2w7f1wi/BIOL-109_lesson_9.pptx?dl=0)
 * Πέμπτη, 10 Δεκεμβρίου 2020 [Διάλεξη 10](https://www.dropbox.com/s/ljj7osr2s1u9fun/BIOL-109_lesson_10.pptx?dl=0)
-* Τετάρτη, 23 Δεκεμβρίου 2020 [Διάλεξη 13, παραδείγματα](lesson_13_2020.ipynb)
+* Τετάρτη, 23 Δεκεμβρίου 2020 [Διάλεξη 13, παραδείγματα](lesson_13_2020.ipynb), [PDF](lesson_13_2020.pdf)
 
 ## Τελική εξέταση
 Η τελική εξέταση του μαθήματος θα γίνει στις 28 Ιανουαρίου 2020. 
