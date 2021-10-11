@@ -7,15 +7,16 @@
 [Αλέξανδρος Καντεράκης](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0).
 
 ## Επικοινωνία
-Για την άμεση επικοινωνία τόσο με τον διδάσκοντα όσο και με τους συμφοιτητές σας, θα πρέπει να γραφτείτε στο κανάλι slack: [biol-109workspace.slack.com
-](biol-109workspace.slack.com
-). Θα πρέπει να έχετε λάβει μέιλ με ένα invitation για να γραφτείτε, αν όχι, τότε στείλε [mail](mailto:kantale@ics.forth.gr).
+Για την άμεση επικοινωνία τόσο με τον διδάσκοντα όσο και με τους συμφοιτητές σας, θα πρέπει να γραφτείτε στο κανάλι slack: [biol-109workspace.slack.com](biol-109workspace.slack.com). Θα πρέπει να έχετε λάβει μέιλ με ένα invitation για να γραφτείτε, αν όχι, τότε στείλε [mail](mailto:kantale@ics.forth.gr).
 
 Το μέιλ του διδάσκοντα είναι: [kantale@ics.forth.gr](mailto:kantale@ics.forth.gr). Χρησιμοποιήστε το μόνο αν δεν μπορεί να γίνει η επικοινωνία μέσω slack.
 
 
+## Διαλέξεις:
+* Διάλεξη 1η (Πέμπτη 30 Σεπτεμβρίου 2021): [powerpoint](https://www.dropbox.com/s/dua8ijggdj5izhq/BIOL_109_2021_lesson_1.pptx?dl=0)  [PDF](https://www.dropbox.com/s/a9py25m1vpd13ov/BIOL_109_2021_lesson_1.pdf?dl=0).
+
+
 ## Προηγούμενες χρονιές
 * [Υλικό και σημειώσεις από το μάθημα για το έτος 2020-2021](2020_2021).
-
 
 
