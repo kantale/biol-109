@@ -10,6 +10,9 @@
 ### Τι πρέπει να παραδώσω;
 Θα πρέπει να παραδώσετε **ένα** αρχείο μορφοποιημένου κειμένου. Το αρχείο αυτό θα πρέπει να το φτιάξετε σε ένα από τα παρακάτω προγράμματα επεξεργασίας κειμένου: LibreOffice, Microsoft Word, Google Docs. Κάθε άσκηση θα πρέπει να βρίσκεται σε μία δική της επικεφαλίδα με όνομα στυλ "Ηeading 2". Κάθε screenshot θα πρέπει να έχει μήκος 10 cm (width) και θα πρέπει το ratio να είναι σταθερό. Δηλαδή μπορεί το ύψος (height) να είναι διαφορετικό έτσι ώστε να διατηρείται το width στα 10 εκατοστά χωρίς να γίνεται distort η εικόνα. Κάθε screenshot θα πρέπει να έχει caption ένα απλό κείμενο όπως αυτό: "η μνήμη τους υπολογιστή μου".
 
+### Σημειώσεις 
+* Με τον όρο "browser" εννούμε το πρόγραμμα που χρησιμοποιείται για το Internet. Συνήθως είναι το Microsoft Explorer, Microsoft Edge, Firefox, Safari, Chrome. 
+
 # Ασκήσεις 
 ### Άσκηση 1 
 Φτιάξτε ένα αρχείο κειμένου στον υπολογιστή σας με το όνομα `askisi_1.txt` χρησιμοποιώντας είτε το notepad στα windows είτε το TextEdit σε Mac. Μπορείτε να χρησιμοποιήσετε οποιοδήποτε άλλο πρόγραμμα επεξεργασία απλού (plain) κειμένου (π.χ. sublime, notepad++).  Το αρχείο αυτό πρέπει να περιέχει μόνο το όνομά σας σε greeklish (δηλαδή μόνο λατινικούς χαρακτήρες). 
@@ -72,7 +75,7 @@ Mac:
 >  Ο υπολογιστής μου έχει Χ TB σκληρό δίσκο και αυτή τη στιγμή χρησιμοποιούνται τα Υ GB.
 
 ### Άσκηση 8
-[Αυτός](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz) είναι ο σύνδεσμος για το ανθρώπινο γωνιδίωμα (δεν έχει σημασία τι ακριβώς είναι αυτό για αυτή την άσκηση). Αν το πατήσετε ο υπολογιστής σας θα αρχίζει να το κατεβάζεις στον υπολογιστή σας. Πατήξστε τον σύνδεσμο και πάρτε έναν screenshot από τον browser σας όπου φαίνεται η ταχύτητα με την οποία κατεβαίνει. Αν το μέγεθός του είναι 938MB, πόση ώρα θα πάρει για να κατέβει στον υπολογιστή σας; 
+[Αυτός](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz) είναι ο σύνδεσμος για ένα αρχείο το οποίο περιέχει το ανθρώπινο γωνιδίωμα (δεν έχει σημασία τι ακριβώς είναι αυτό για αυτή την άσκηση). Αν το πατήσετε ο υπολογιστής σας θα αρχίζει να το κατεβάζεις στον υπολογιστή σας. Πατήστε τον σύνδεσμο και πάρτε έναν screenshot από τον browser σας όπου φαίνεται η ταχύτητα με την οποία κατεβαίνει. Αν το μέγεθός του είναι 938MB, πόση ώρα θα πάρει για να κατέβει στον υπολογιστή σας; 
 
 Για αυτή την άσκηση δεν χρειάζεται να περιμένετε μέχρι να κατεβάσετε όλο το αρχείο. Μόλις πάρετε το screenshot μπορείτε να σταματήσετε το download. 
 
@@ -82,12 +85,236 @@ Mac:
 Σε έναν οποιοδήποτε κατάλογο του υπολογιστή σας (κατά προτίμηση στο  `C:/Users/<USERNAME>` σε windows ή στο `\Users\<USERNAME>` σε Mac) φτιάξτε τους ακόλουθους καταλόγους και υποκαταλόγους:
 
 ```
-
+DATA
+    experiment_1
+                Homo_sapiens
+                mus_musculus
+    experiment_2
+                Homo_sapiens
+                mus_musculos
+Report
+      Draft
+      Final
 
 ```
 
+Θα πρέπει δηλαδή να φτιάξετε συνολικά 10 καταλόγους. Για παράδειγμα ο φάκελο `experiment_1` θα πρέπει να βρίσκεται μέσα στον φάκςλο `DATA`.
 
-https://aeitei.gr/ypopsifioi-ana-pedio.php?year=2021
+Πάρτε ένα screenshot που να φαίνεται η δομή των καταλόγων που έχετε φτιάξει. Ένα παράδειγμα παρόμοιου screenshot φαίνεται στη διαφάνεια 43 της πρώτης διάλεξης.
+
+### Άσκηση 10
+Πάρτε ένα screenshot όπου να φαίνεται η ανάλυση της οθόνης σας. Θα πρέπει να φαίνεται πόσα pixels έχει η οθόνη σας. Δηλαδή κάτι σαν 2560Χ1600.
+
+### Άσκηση 11
+Πάρτε μία φωτόγραφία με το κινητό σας (ό,τι θέλετε) και μεταφέρετέ τη στον υπολογιστή σας. Πάρτε ένα screenshot όπου να φαίνονται οι διαστάσεις (dimensions) της φωτογραφίας καθώς και το DPI της. Στα windows αυτό αναφέρεται σαν "Resolution". 
+
+### Άσκηση 12
+Υπολογίστε το PPI (Pixels Per Inch) της οθόνης. Υπολογίστε μόνο το οριζόντιο PPI. Δηλαδή βρείτε πόσα pixels είναι το width της οθόνης (έστω Χ) και πόσο είναι το πλάτος της σε inches (έστω Υ, αναζητείστε το αυτό από το google, βάλτε το μοντέλο της οθόνης σας). Στη συνέχεια γράψτε πόσο είναι το Χ, πόσο το Υ και πόσο είναι το Χ/Υ.
+
+### Άσκηση 13
+Πηγαίνετε σε αυτό το site: https://excalidraw.com/ . Αυτό το site σας επιτρέπει να φτιάχνετε διαγράμματα. Φτιάξτε ένα απλό διάγραμμα, ό,τι θέλετε εσείς. Στη συνέχεια:
+* επιλέξτε να το κατεβάσετε στον υπολογιστή σας σε φορμάτ PNG. Για να το κάνετε αυτό πηγαίντε πάνω δεξιά και επιλέξτε το κουμπί "Save as Image". Στη συνέχεια επιλέξτε PNG. 
+* επιλέξτε να το κατεβάσετε στον υπολογιστή σας σε φορμάτ SVG. Για να το κάνετε αυτό πηγαίντε πάνω δεξιά και επιλέξτε το κουμπί "Save as Image". Στη συνέχεια επιλέξτε SVG.
+
+Το PNG είναι [raster graphics](https://en.wikipedia.org/wiki/Raster_graphics) και το SVG είναι [vector graphics](https://en.wikipedia.org/wiki/Vector_graphics).
+
+Στη συνέχεια:
+* ανοίξτε το PNG αρχείο με τον browser σας και επιλέξτε να κάνετε zoom όσο μπορείτε. Παρατηρείστε ότι όσο κάνετε zoom χάνεται η ποιότητα. Πάρτε ένα screenshot με το μέγιστο zoom που μπορεί να κάνει το browser σας. Για να κάνετε zoom μπορείτε να πάτε View-->Zoom in (ή κάτι παρόμοιο) 
+* ανοίξτε το SVG αρχείο με τον browser σας και επιλέξτε να κάνετε zoom όσο μπορείτε. Παρατηρείστε ότι όσο κάνετε zoom **ΔΕΝ** χάνεται η ποιότητα. Πάρτε ένα screenshot με το μέγιστο zoom που μπορεί να κάνει το browser σας. 
+
+### Άσκηση 14
+Πηγαίνετε σε αυτό το site: https://thesecatsdonotexist.com/.  Επιλέξτε μία τυχαία τεχνιτή(!) γάτα, κάνετε δεξί κλικ και επιλέξτε Copy Image (αντιγραφή εικόνας). Στη συνέχεια:
+* Αν είσαστε σε Windows: Ανοίξτε το πρόγραμμα Paint, και κάνετε paste την εικόνα σας. Επιλέξτε File --> Save as και επιλέξτε να τη σώσετε σαν PNG. Στη συνέχεια πατήστε πάλι File --> Save as και επιλέξτε να τη σώσετε σαν JPG. Στη συνέχεια ανοίξτε τη πρώτη (PNG) εικόνα με τον browser σας και κάνετε zoom όσο γίνεται. Πάρτε ένα screenshot. Κάντε το ίδιο και για τη JPG εικόνα. Ποια εικόνα φαίνεται να είναι πιο καθαρή αν τη κάνετε zoom; Τι μέγεθος σε bytes έχει η μία εικόνα και τι μέγεθος η άλλη; 
+* Αν είσαστε σε Mac: Ανοίξτε το πρόγραμμα Preview και πατήστε File --> New from clipboard. Στη συνέχεια επιλέξτε File --> Export και επιλέξτε να τη σώσετε σαν JPG. Στη συνέχεια πατήστε πάλι File --> Export και επιλέξτε να τη σώσετε σαν PNG. Στη συνέχεια ανοίξτε τη πρώτη (PNG) εικόνα με τον browser σας και κάνετε zoom όσο γίνεται. Πάρτε ένα screenshot. Κάντε το ίδιο και για τη JPG εικόνα. Ποια εικόνα φαίνεται να είναι πιο καθαρή αν τη κάνετε zoom; Τι μέγεθος σε bytes έχει η μία εικόνα και τι μέγεθος η άλλη;  
+
+### Άσκηση 15
+Πάρτε μία ηχογράφηση από το κινητό σας και μεταφέρετέ τη στον υπολογιστή σας. Επιλέητε το αρχείο, κάντε δεξί κλικ και επιλέξτε Properties (σε windows) ή Get Info (σε Mac). Πάρετε ένα screenshot στο οποίο να φαίνεται ποιο είναι το sample rate της ηχογράφησης και ποιο είναι το bit rate ή το bit depth της ηχογράφησης.  
+
+### Άσκηση 16
+Φτιάξτε έναν λογαριασμό στο [ORCID](https://orcid.org/). Πάρτε ένα ένα screenshot όπου να φαίνεται το ID σας στο ORCID. Θα πρέπει να είναι κάτι σαν https://orcid.org/0000-0003-4276-0115 (<-- αυτό είναι το δικό μου)
+
+### Άσκηση 17
+
+Δίνονται οι παρακάτω δύο πίνακες
+
+```
+1. anabolism
+2. energy
+3. absorption
+4. catabolism
+5. gonad
+6. antibiotic
+7. inheritance
+8. hydrolysis
+9. eyespot
+10. catalyst
+11. system
+12. cotyledon
+13. community
+14. chloroplast
+15. loam
+16. effect
+17. fruit
+18. hermaphroditic
+19. hibernation
+20. diffusion
+21. endoplasm
+22. endospore
+23. ecosystem
+24. biome
+25. cross
+26. hydrophobic
+27. skeleton
+28. gemmule
+29. cerebrum
+30. flagellate
+31. excretion
+```
+
+```
+1. mutation
+2. seed
+3. vacuole
+4. saprophyte
+5. bond
+6. plankton
+7. allele
+8. microevolution
+9. paleontology
+10. vaccine
+11. taxonomy
+12. notochord
+```
+
+
+Με αυτούς τους δύο πίνακες μπορείτε να επιλέξετε 2 όρους της βιολογίας μοναδικούς για τα γενέθλιά σας. Για παράδειγμα αν έχετε
+γενέθλια στις 20 Σεπτεμβρίου. Τότε οι όροι είναι:  diffusion (20) και paleontology (9). Με αυτούς τους 2 όρους αναζητήστε ένα paper είτε μεσω του [PubMed](https://pubmed.ncbi.nlm.nih.gov/) είτε μέσω του [Google Scholar](https://scholar.google.com/). Ποιος είναι ο κωδικός DIY για αυτό το paper;
+
+### Άσκηση 18
+Σιγουρευτείτε ότι ο υπολογιστής έχει ένα από:
+1. Microsoft Windows
+2. LibreOffice
+3. Πρόσβαση στο Google Docs
+
+Πάρτε ένα screenshot το οποίο να δείχνει πιο (ή ποια) έχετε εγκαταστήσει (ή αν πρόκειται για το Google Docs που δεν θέλει εγκατάσταση, απλά ένα screenshot με ένα άδειο document).
+
+### Άσκηση 19
+1. Εγκαταστήστε το [Zotero](https://www.zotero.org/) στον υπολογιστή σας. 
+2. Εγκαταστήστε την [επέκταση του zotero για τον browser σας](https://www.zotero.org/download/connectors). 
+3. Επιβεβαιώστε ότι το Ζοtero συνεργάζεται με ένα από τα προγράμματα της Άσκησης 18 και πάρτε ένα screenshot που θα το επιβεβαίώνει. 
+
+### Άσκηση 20
+Στο κείμενό σας προσθέστε το ακόλουθο κείμενο με γραμματοσειρά monospace και μέγεθος 9pt:
+```
+ORIGIN      
+        1 agaggcggag ccgctgtggc actgctgcgc ctctgctgcg cctcgggtgt cttttgcggc
+       61 ggtgggtcgc cgccgggaga agcgtgaggg gacagatttg tgaccggcgc ggtttttgtc
+      121 agcttactcc ggccaaaaaa gaactgcacc tctggagcgg gttagtggtg gtggtagtgg
+      181 gttgggacga gcgcgtcttc cgcagtccca gtccagcgtg gcgggggagc gcctcacgcc
+      241 ccgggtcgct gccgcggctt cttgcccttt tgtctctgcc aacccccacc catgcctgag
+      301 agaaaggtcc ttgcccgaag gcagattttc gccaagcaaa ttcgagcccc gccccttccc
+      361 tgggtctcca tttcccgcct ccggcccggc ctttgggctc cgccttcagc tcaagactta
+      421 acttccctcc cagctgtccc agatgacgcc atctgaaatt tcttggaaac acgatcactt
+      481 taacggaata ttgctgtttt ggggaagtgt tttacagctg ctgggcacgc tgtatttgcc
+      541 ttacttaagc ccctggtaat tgctgtattc cgaagacatg ctgatgggaa ttaccaggcg
+      601 gcgttggtct ctaactggag ccctctgtcc ccactagcca cgcgtcactg gttagcgtga
+      661 ttgaaactaa atcgtatgaa aatcctcttc tctagtcgca ctagccacgt ttcgagtgct
+      721 taatgtggct agtggcaccg gtttggacag cacagctgta aaatgttccc atcctcacag
+      781 taagctgtta ccgttccagg agatgggact gaattagaat tcaaacaaat tttccagcgc
+      841 ttctgagttt tacctcagtc acataataag gaatgcatcc ctgtgtaagt gcattttggt
+      901 cttctgtttt gcagacttat ttaccaagca ttggaggaat atcgtaggta aaaatgccta
+      961 ttggatccaa agagaggcca acattttttg aaatttttaa gacacgctgc aacaaagcag
+```
+
+### Άσκηση 21
+Στο κείμενο σας προσθέστε το παρακάτω κείμενο: "THIS IS A TEST" με πράσινο background και μπλε foreground (ή highlight color ή marker  color)
+
+### Άσκηση 22
+Στο κείμενό σας προσθέτε το κείμενο "This is a test", το οποίο να είναι έντονο (bold) και υπογραμμισμένο (italic)
+
+### Άσκηση 23
+Στο κείμενό σας προσθέστε μία παράγραφο "Lorem Ipsum" με το εξής identation:
+* Left identation: 0.3 (cm ή inch)
+* Right indentation: 0.8 (cm ή inch)
+* First line indentation: 1.0 (cm ή inch)
+
+Η παράγραφος θα πρέπει να είναι:
+* Left aligned αν η μέρα γέννησής σας είναι από 1-8
+* Centered aligned αν η μέρα γέννησής σας είναι από 9-16
+* Right aligned αν η μέρα γέννησής σας είναι από 17-24
+* Justified aligned αν η μέρα γέννησής σας είναι από 25-31
+
+Το spacing θα πρέπει να είναι:
+* Μονό (1.0) αν ο μήνας γέννησής σας είναι από 1-4
+* 1.5 Αν ο μήνας γέννησής σας είναι από 5-8
+* 2.0 αν ο μήνας γέννησής σας είναι από 9-12
+
+### Άσκηση 24
+
+Αναπαράγεται το παρακάτω text box:
+
+![img](https://i.imgur.com/WHfPcqq.png)
+
+Δίνεται ότι:
+* Το κείμενο είναι απλό Lorem Ipsum. Μπορείτε να βάλετε ό,τι θέλετε. 
+* Το Padding είναι 1.0 και για τις 4 κατευθύνσεις (πάνω, κάτω, δεξιά, αριστερά)
+* Το αριστερό border είναι πράσινο, το πάνω είναι κόκκινο, το δεξί είναι μπλε και το κάτω είναι μαύρο.
+* Και τα 4 borders έχουν width 1.0
+* To background color είναι γκρι
+* Το Vertical alignment είναι center
+
+
+### Άσκηση 25
+Προσθέστε στο κείμενό σας τον παρακάτω πίνακα:
+
+![img](https://i.imgur.com/eKLqJbS.png) 
+
+Αν δεν είσαστε στο Google docs, προσθέστε του το caption: "My grass growth". Προσθέσετε επίσης τη φράση: "As we can see from Table 1, Trial E did not show any progress", όπου το 1 στο "Table 1" πρέπει να είναι cross reference στον πίνακα.
+
+### Άσκηση 26
+Προσθέστε:
+* Table of Contents
+* List of Figures (εκτός αν είσαστε σε Google Docs)
+* List of Tables (εκτός αν είσαστε σε Google Docs)
+
+### Άσκηση 27
+Προσθέστε τη φράση: "These findings are in concordance with previous research ....". Αντί για τελείες στο τέλος της πρότασης θα πρέπει να προσθέσετε τη βιβλιογραφική αναφορά για το paper της άσκησης 17, μέσω του Zotero. Στο τέλος του κειμένου προσθέστε ένα κεφάλαιο σε στυλ Heading 1 με τον τίτλο "References". Στο κεφάλαιο αυτό προσθέστε τη βιβλιογραφία (θα έχει μόνο 1 paper) μέσω του Zotero σε ό.τι στυλ θέλετε (αν πρέπει να επιλέξετε βάλτε Nature).
+
+### Άσκηση 28
+Προσθέστε τον μαθηματικό τύπο:
+
+![img](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba75d0bd7aca8df87e9225ba4763bc58e626d1ef)
+
+### Άσκηση 29
+Κάντε paste without formatting τη 1η παράγραφο του άρθρου της wikipedia που βρίσκεται στο link: https://en.wikipedia.org/wiki/Biology. Δηλαδή ξεκινήστε από "Biology is the scientific study of life.." μέχρι το "...through their biophysical environment". Στο κείμενο που θα αντιγράψετε δεν πρέπει να υπάρχουν σύνδεσμοι.
+
+### Άσκηση 30
+Προσθέστε δύο τυχαία σχόλια σε οποιαδήποτε σημεία του κειμένου 
+
+### Άσκηση 31
+Βάλτε το κείμενο σε mode "Track changes" (ή σε Suggestion mode αν είσαστε στο Google docs). Διαγράψτε την άσκηση 29!
+
+### Άσκηση 32
+* Φτιάξτε έναν δωρεάν λογαριασμό σε έναν απο τους παρόχους cloud που δείξαμε στη διαφάνεια 25 της τρίτης διάλεξης (μπορείτε να επιλέξετε και κάποιο που δεν είναι στη λίστα). 
+* Σώστε την αναφορά αυτή σε ένα αρχείο με το όνομα: "Biol_109_exercise_1" σε ότι φορμάτ θέλετε (PDF, Microsoft Word ή ODF)
+* Ανεβάστε την αναφορά στο cloud
+* Πάρτε ένα screenshot με το αρχείο να βρίσκεται στο cloud.
+* Προσθέστε ένα link με το οποίο να μπορεί οποιοσδήποτε να έχει πρόσβαση στο αρχείο (αν το υποστηρίζει ο cloud provider)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
