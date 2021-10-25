@@ -3,6 +3,8 @@
 
 Κάποιες πληροφορίες για το μάθημα μπορείτε να δείτε [εδώ](https://www.biology.uoc.gr/el/department-courses/21). 
 
+Άδεια χρήσης: Όλο το υλικό που υπάρχει σε αυτό το repository είναι διαθέσιμο μέσω της άδειας χρήσης [MIT License](LICENSE). 
+
 ## Διδάσκοντας
 [Αλέξανδρος Καντεράκης](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0).
 
