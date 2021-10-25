@@ -196,7 +196,7 @@ Report
 
 
 Με αυτούς τους δύο πίνακες μπορείτε να επιλέξετε 2 όρους της βιολογίας μοναδικούς για τα γενέθλιά σας. Για παράδειγμα αν έχετε
-γενέθλια στις 20 Σεπτεμβρίου. Τότε οι όροι είναι:  diffusion (20) και paleontology (9). Με αυτούς τους 2 όρους αναζητήστε ένα paper είτε μεσω του [PubMed](https://pubmed.ncbi.nlm.nih.gov/) είτε μέσω του [Google Scholar](https://scholar.google.com/). Ποιος είναι ο κωδικός [DOI](https://www.doi.org/) για αυτό το paper;
+γενέθλια στις 20 Σεπτεμβρίου. Τότε οι όροι είναι:  diffusion (20) και paleontology (9). Με αυτούς τους 2 όρους αναζητήστε ένα paper είτε μεσω του [PubMed](https://pubmed.ncbi.nlm.nih.gov/) είτε μέσω του [Google Scholar](https://scholar.google.com/). Ποιος είναι ο κωδικός [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) για αυτό το paper;
 
 ### Άσκηση 18
 Σιγουρευτείτε ότι ο υπολογιστής έχει ένα από:
