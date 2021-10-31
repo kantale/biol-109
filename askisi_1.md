@@ -286,7 +286,7 @@ ORIGIN
 
 ![img](https://i.imgur.com/eKLqJbS.png) 
 
-Αν δεν είσαστε στο Google docs, προσθέστε του το caption: "My grass growth". Προσθέσετε επίσης τη φράση: "As we can see from Table 1, Trial E did not show any progress", όπου το 1 στο "Table 1" πρέπει να είναι cross reference στον πίνακα.
+Αν δεν είσαστε στο Google docs, προσθέστε του το caption: "My grass growth". Προσθέσετε επίσης τη φράση: "As we can see from Table 1, Trial E did not show any progress", όπου το 1 στο "Table 1" πρέπει να είναι cross reference στον πίνακα. Προσοχή! Μην βάλετε τον πίνακα αυτό σαν image μέσω copy-paste. Τον πίνακα θα πρέπει να τον φτιάξετε (αναπαράγετε) εσείς. 
 
 ### Άσκηση 26
 Προσθέστε:
