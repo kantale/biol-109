@@ -209,7 +209,7 @@ Report
 
 ### Άσκηση 18
 Σιγουρευτείτε ότι ο υπολογιστής έχει ένα από:
-1. Microsoft Windows
+1. Microsoft Word
 2. LibreOffice
 3. Πρόσβαση στο Google Docs
 
@@ -292,8 +292,8 @@ ORIGIN
 ### Άσκηση 26
 Προσθέστε:
 * Table of Contents
-* List of Figures (εκτός αν είσαστε σε Google Docs)
-* List of Tables (εκτός αν είσαστε σε Google Docs)
+* List of Figures (εκτός αν είσαστε σε Google Docs). Σημείωση: μπορείτε να το βρείτε και σαν Index of Figures. 
+* List of Tables (εκτός αν είσαστε σε Google Docs). Σημείωση: μπορείτε να το βρείτε και σαν Index of Tables.
 
 ### Άσκηση 27
 Προσθέστε τη φράση: "These findings are in concordance with previous research ....". Αντί για τελείες στο τέλος της πρότασης θα πρέπει να προσθέσετε τη βιβλιογραφική αναφορά για το paper της άσκησης 17, μέσω του Zotero. Στο τέλος του κειμένου προσθέστε ένα κεφάλαιο σε στυλ Heading 1 με τον τίτλο "References". Στο κεφάλαιο αυτό προσθέστε τη βιβλιογραφία (θα έχει μόνο 1 paper) μέσω του Zotero σε ό,τι στυλ θέλετε (π.χ. Nature).
