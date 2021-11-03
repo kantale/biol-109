@@ -109,10 +109,10 @@ Mac:
 DATA
     experiment_1
                 Homo_sapiens
-                mus_musculus
+                Mus_musculus
     experiment_2
                 Homo_sapiens
-                mus_musculos
+                Mus_musculus
 Report
       Draft
       Final
