@@ -20,10 +20,10 @@
 3. Τελικές εξετάσεις Ιανουαρίου, με συμμετοχή 60% στη τελική βαθμολογία.
 
 ## Διαλέξεις:
-* Διάλεξη 1η (Πέμπτη 7 Οκτωβρίου 2021): [powerpoint](https://www.dropbox.com/s/dua8ijggdj5izhq/BIOL_109_2021_lesson_1.pptx?dl=0)  [PDF](https://www.dropbox.com/s/a9py25m1vpd13ov/BIOL_109_2021_lesson_1.pdf?dl=0).
-* Διάλεξη 2η (Πέμπτη 14 Οκτωβρίου 2021): [powerpoint](https://www.dropbox.com/s/i7e9xwwqeh5rfw8/BIOL_109_2021_lesson_2.pptx?dl=0)  [PDF](https://www.dropbox.com/s/qaxxo8t5tr3kc93/BIOL_109_2021_lesson_2.pdf?dl=0).
-* Διάλεξη 3η (Πέμπτη 21 Οκτωβρίου 2021): [powerpoint](https://www.dropbox.com/s/6ck0rg9uhe7dp5q/BIOL_109_2021_lesson_3.pptx?dl=0)  [PDF](https://www.dropbox.com/s/ctpl8umifxd9sgb/BIOL_109_2021_lesson_3.pdf?dl=0).
-* Διάλεξη 4η (Πέμπτη 4 Νοεμβρίου 2021) [powerpoint](https://www.dropbox.com/s/70ovmuwuhlb1h21/BIOL_109_2021_lesson_4.pptx?dl=0) [PDF](https://www.dropbox.com/s/smuk7clfit62m4q/BIOL_109_2021_lesson_4.pdf?dl=0).
+* Διάλεξη 1η (Πέμπτη 7 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/dua8ijggdj5izhq/BIOL_109_2021_lesson_1.pptx?dl=0)  [PDF](https://www.dropbox.com/s/a9py25m1vpd13ov/BIOL_109_2021_lesson_1.pdf?dl=0).
+* Διάλεξη 2η (Πέμπτη 14 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/i7e9xwwqeh5rfw8/BIOL_109_2021_lesson_2.pptx?dl=0)  [PDF](https://www.dropbox.com/s/qaxxo8t5tr3kc93/BIOL_109_2021_lesson_2.pdf?dl=0).
+* Διάλεξη 3η (Πέμπτη 21 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/6ck0rg9uhe7dp5q/BIOL_109_2021_lesson_3.pptx?dl=0)  [PDF](https://www.dropbox.com/s/ctpl8umifxd9sgb/BIOL_109_2021_lesson_3.pdf?dl=0).
+* Διάλεξη 4η (Πέμπτη 4 Νοεμβρίου 2021): [PowerPoint](https://www.dropbox.com/s/70ovmuwuhlb1h21/BIOL_109_2021_lesson_4.pptx?dl=0) [PDF](https://www.dropbox.com/s/smuk7clfit62m4q/BIOL_109_2021_lesson_4.pdf?dl=0).
 
 ## 1η σειρά ασκήσεων
 [Η 1η σειρά ασκήσεων έχει ανέβει](askisi_1.md). Εκεί θα βρείτε οδηγίες για το τι πρέπει να κάνετε, πως θα στείλετε την εργασία και πως θα βαθμολογηθείτε. Στείλτε ό,τι απορίες έχετε στο slack.     
