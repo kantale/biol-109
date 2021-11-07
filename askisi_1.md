@@ -263,10 +263,10 @@ ORIGIN
 Μία από τις γραμματοσειρές που είναι monospace και έχει ο υπολογιστής σας είναι η "Courier New".
 
 ### Άσκηση 21
-Στο κείμενο σας προσθέστε το παρακάτω κείμενο: "THIS IS A TEST" με πράσινο background και μπλε foreground (ή highlight color ή marker  color)
+Στο κείμενο σας προσθέστε το παρακάτω κείμενο: "THIS IS A TEST" (χωρίς τα εισαγωγικά) με πράσινο background και μπλε foreground (ή highlight color ή marker  color)
 
 ### Άσκηση 22
-Στο κείμενό σας προσθέστε το κείμενο "This is a test", το οποίο να είναι έντονο (bold) και υπογραμμισμένο (underline)
+Στο κείμενό σας προσθέστε το κείμενο "This is a test" (χωρίς τα εισαγωγικά), το οποίο να είναι έντονο (bold) και υπογραμμισμένο (underline)
 
 ### Άσκηση 23
 Στο κείμενό σας προσθέστε μία παράγραφο "Lorem Ipsum" με το εξής identation:
