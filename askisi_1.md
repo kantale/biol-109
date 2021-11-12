@@ -47,6 +47,7 @@ Windows:
 ```
 C:\Users\...\askisi_1.txt 
 ``` 
+Για τα windows μπορείτε να ακολουθήσετε και [αυτές τις αδηγίες](https://www.laptopmag.com/articles/show-full-folder-path-file-explorer) για να κάνετε τον file explorer να δείχνει πάντα ολόκληρο το path των αρχείων.
 
 Mac:
 ```
