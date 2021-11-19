@@ -344,7 +344,7 @@ ORIGIN
 ![img](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba75d0bd7aca8df87e9225ba4763bc58e626d1ef)
 
 * Αν είσαστε στο Google Docs (δεν υποστηρίζει κάποια μαθηματικά σύμβολα):
-![img](https://i.imgur.com/gvDrpoR.png)
+![img](https://i.imgur.com/3IFdQBu.png)
 
 ### Άσκηση 29
 Κάντε paste without formatting τη 1η παράγραφο του άρθρου της wikipedia που βρίσκεται στο link: https://en.wikipedia.org/wiki/Biology. Δηλαδή ξεκινήστε από "Biology is the scientific study of life.." μέχρι το "...through their biophysical environment". Στο κείμενο που θα αντιγράψετε δεν πρέπει να υπάρχουν σύνδεσμοι.
