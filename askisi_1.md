@@ -341,9 +341,11 @@ ORIGIN
 Προσθέστε τον μαθηματικό τύπο:
 
 * Αν είσαστε στο Word ή στο LibreOffice:
+
 ![img](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba75d0bd7aca8df87e9225ba4763bc58e626d1ef)
 
 * Αν είσαστε στο Google Docs (δεν υποστηρίζει κάποια μαθηματικά σύμβολα):
+
 ![img](https://i.imgur.com/3IFdQBu.png)
 
 ### Άσκηση 29
