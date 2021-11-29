@@ -25,6 +25,7 @@
 * Διάλεξη 3η (Πέμπτη 21 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/6ck0rg9uhe7dp5q/BIOL_109_2021_lesson_3.pptx?dl=0)  [PDF](https://www.dropbox.com/s/ctpl8umifxd9sgb/BIOL_109_2021_lesson_3.pdf?dl=0).
 * Διάλεξη 4η (Πέμπτη 4 Νοεμβρίου 2021): [PowerPoint](https://www.dropbox.com/s/70ovmuwuhlb1h21/BIOL_109_2021_lesson_4.pptx?dl=0) [PDF](https://www.dropbox.com/s/smuk7clfit62m4q/BIOL_109_2021_lesson_4.pdf?dl=0).
 * Διάλεξη 5η (Πέμπτη 18 Nοεμβρίου 2021): [PowerPoint](https://www.dropbox.com/s/7kmkdjesv4o26in/BIOL-109_2021_lesson_5.pptx?dl=0) [PDF](https://www.dropbox.com/s/gslmb3tbt64y6qw/BIOL-109_2021_lesson_5.pdf?dl=0).
+* Διάλεξη 6η (Τετάρτη 24 Νοεμβρίου 2021): [PowerPoint](https://www.dropbox.com/s/28dmf4l95flm692/BIOL-109_2021_lesson_6.pptx?dl=0) [PDF](https://www.dropbox.com/s/lwb6enxkkpbjnfb/BIOL-109_2021_lesson_6.pdf?dl=0).
 
 ## 1η σειρά ασκήσεων
 [Η 1η σειρά ασκήσεων έχει ανέβει](askisi_1.md). Εκεί θα βρείτε οδηγίες για το τι πρέπει να κάνετε, πως θα στείλετε την εργασία και πως θα βαθμολογηθείτε. Στείλτε ό,τι απορίες έχετε στο slack.     
