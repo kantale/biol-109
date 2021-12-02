@@ -244,7 +244,57 @@ Hint:
 5. Στη πληροροφορία του track "Clinvar Variants" στη θέση που έχει εντοπιστεί η μετάλλαξη θα αναφέρεται το όνομα μίας ασθένειας. Ποια είναι αυτή;
 
 ### Άσκηση 15
+Ο σκοπός αυτής της άσκησης είναι να εξάγεται όλα τα 
+
+1. Πηγαίνετε στο [Table Viewer του UCSC](https://genome.ucsc.edu/cgi-bin/hgTables).  
+2. Επιλέξτε: clade: `Mammal`, genome: `Human`, assembly: `Dec. 2013 (GRCh38/hg38)`, group: `Genes and Gene Predictions`, track: `GENCODE V38`, table: `knoenGene`, 
+3. Στο region επιλέξτε: `genome`
+4. Στο filter επιλέξτε `edit`. Στη σελίδα που ανοίγει στο πεδίο `geneName` εισάγετε το όνομα του γονιδίου πορ βρίσκεται η μετάλλαξή σας. Στη συνέχεια πατήστε το κουμπί `Submit`
+5. Στο πεδίο "Output format" επιλέξτε `all fields from selected table`
+6. Στο output filename επιλέξτε ένα όνομα αρχείου το οποίο να τελειώνει `.csv`, για παράδειγμα: `askisi_15.csv`.
+7. Πατήστε το κουμπί `get output` έτσι ώστε να κατέβει ένα αρχείο με τα αποτελέσματα της αναζήτησής σας. 
+8. Ανοίξτε το αρχείο αυτό από το NotePad (windows) ή από το TextEdit (Mac) και πάρτε ένα screenshot.
+
+### Άσκηση 16
+(συνέχεια από 15)
+
+Ανοίξτε το αρχείο που έχετε φτιάξει από την άσκηση 15 είτε με το Microsoft Excel, είτε με το LibreOffice (Calc Spreadsheet), είτε με το Google Sheets και πάρτε ένα screenshot. Θα πρέπει να φαίνεται ότι κάθε στήλη του αρχείου υπάρχει σε διαφορετική στήλη του προγράμματος που έχετε επιλέξει.
+
+### Άσκηση 17
+(συνέχεια από 15)
+
+Γράψτε κώδικα R ο οποίος:
+1. Θα "φορτώνει" το αρχείο που έχετε φτιάξει από την άσκηση 15 σε ένα data.frame.
+2. Υπολογίζει τον μέσο όρο του μήκους των μετάγραφων που έχει το αρχείο. Η αρχή κάθε μετάγραφου υπάρχει στη στήλη `chromStart` και το τέλος στη στήλη `chromEnd`. Το μήκος ενός μετάγραφου είναι το αποτέλεσμα της πράξης: `chromEnd-chromStart`. Για παράδειγμα έστω το παρακάτω αρχείο (είναι για το γονίδιο `BRCA2`):
+
+```
+#chrom  chromStart  chromEnd    name    score   strand  thickStart  thickEnd    reserved    blockCount  blockSizes  chromStarts name2   cdsStartStat    cdsEndStat  exonFrames  type    geneName    geneName2   geneType    transcriptClass source  transcriptType  tag level   tier
+# Filtering on 1 columns
+chr13   32315085    32400268    ENST00000544455.6   0   +   32316460    32398770    789624  27  60,106,249,109,50,41,115,50,112,1116,4932,96,70,428,182,188,171,355,156,145,122,199,164,139,245,147,2107,   0,1336,3991,9990,11015,11156,11413,14357,15833,17186,21179,29472,31741,39775,41342,42656,47437,48093,55316,55870,61584,64231,64664,64921,79603,81812,83076, uc058wft.2  none    none    -1,0,1,1,2,1,0,1,0,1,1,1,1,2,1,0,2,2,0,0,1,0,1,0,1,0,0, none    BRCA2   P51587  none    coding  havana_homo_sapiens protein_coding  CAGE_supported_TSS,CCDS,RNA_Seq_supported_only,appris_principal_1,basic,overlapping_locus   2   canonical,basic,all
+chr13   32315504    32333291    ENST00000530893.6   0   +   32325128    32333291    789624  10  163,102,249,109,50,41,115,50,112,1020,  0,917,3572,9571,10596,10737,10994,13938,15414,16767,    uc058wfu.1  none    none    -1,-1,-1,0,2,1,0,1,0,1, none    BRCA2   A0A590UJI7  none    coding  havana_homo_sapiens protein_coding  cds_end_NF,mRNA_end_NF,non_canonical_TEC,overlapping_locus  2   all
+chr13   32315507    32400268    ENST00000380152.8   0   +   32316460    32398770    789624  27  160,106,249,109,50,41,115,50,112,1116,4932,96,70,428,182,188,171,355,156,145,122,199,164,139,245,147,2107,  0,914,3569,9568,10593,10734,10991,13935,15411,16764,20757,29050,31319,39353,40920,42234,47015,47671,54894,55448,61162,63809,64242,64499,79181,81390,82654,  uc001uub.3  none    none    -1,0,1,1,2,1,0,1,0,1,1,1,1,2,1,0,2,2,0,0,1,0,1,0,1,0,0, none    BRCA2   P51587  none    coding  ensembl_havana_transcript_homo_sapiens  protein_coding  CAGE_supported_TSS,CCDS,Ensembl_canonical,MANE_Select,appris_principal_1,basic,overlapping_locus    2   basic,all
+chr13   32316071    32400268    ENST00000680887.1   0   +   32316460    32398770    789624  27  86,106,249,109,50,41,115,50,112,1116,4932,96,70,428,182,188,171,355,156,145,122,199,164,139,245,147,2107,   0,350,3005,9004,10029,10170,10427,13371,14847,16200,20193,28486,30755,38789,40356,41670,46451,47107,54330,54884,60598,63245,63678,63935,78617,80826,82090,  uc289bmu.1  none    none    -1,0,1,1,2,1,0,1,0,1,1,1,1,2,1,0,2,2,0,0,1,0,1,0,1,0,0, none    BRCA2   none    none    coding  havana_homo_sapiens protein_coding  CAGE_supported_TSS,CCDS,RNA_Seq_supported_only,appris_principal_1,mRNA_end_NF,overlapping_locus 2   all
+chr13   32316460    32400268    ENST00000614259.2   0   +   32316460    32362659    789624  26  67,249,109,50,41,115,50,112,1116,4932,96,70,428,182,188,179,355,156,145,122,199,164,139,245,147,2107,   0,2616,8615,9640,9781,10038,12982,14458,15811,19804,28097,30366,38400,39967,41281,46054,46718,53941,54495,60209,62856,63289,63546,78228,80437,81701,    uc058wfv.2  none    none    0,1,1,2,1,0,1,0,1,1,1,1,2,1,0,2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1none   BRCA2   none    none    coding  havana_homo_sapiens nonsense_mediated_decay non_canonical_TEC,overlapping_locus 2   all
+chr13   32356427    32398233    ENST00000665585.1   0   +   32356427    32375080    789624  15  182,188,171,355,156,145,249,64,122,199,164,139,245,147,72,  0,1314,6095,6751,13974,14528,18534,18915,20242,22889,23322,23579,38261,40470,41734, uc288ccz.1  none    none    1,0,2,2,0,0,1,-1,-1,-1,-1,-1,-1,-1,-1,  none    BRCA2   A0A590UJU6  none    coding  havana_homo_sapiens nonsense_mediated_decay RNA_Seq_supported_only,cds_start_NF,mRNA_start_NF,overlapping_locus 2   all
+chr13   32370970    32379495    ENST00000528762.1   0   +   32370970    32376670    789624  4   130,64,122,179, 0,4372,5699,8346,   uc058wfw.1  none    none    0,1,2,-1,   none    BRCA2   H0YD86  none    coding  havana_homo_sapiens nonsense_mediated_decay cds_start_NF,mRNA_start_NF,overlapping_locus    2   all
+chr13   32379839    32398272    ENST00000470094.1   0   +   32379839    32396092    789624  6   74,139,245,126,147,111, 0,167,14849,16151,17058,18322,  uc058wfx.1  none    none    1,0,1,0,-1,-1,  none    BRCA2   H0YE37  none    coding  havana_homo_sapiens nonsense_mediated_decay cds_start_NF,mRNA_start_NF,overlapping_locus    2   all
+chr13   32380006    32394933    ENST00000666593.1   0   +   32380006    32383930    789624  3   139,139,245,    0,3886,14682,uc288dpn.1 none    none    0,1,-1, none    BRCA2   A0A590UJ24  none    coding  havana_homo_sapiens nonsense_mediated_decay RNA_Seq_supported_only,cds_start_NF,mRNA_start_NF,overlapping_locus 2   all
+chr13   32396808    32398448    ENST00000533776.1   0   +   32396808    32396808    16646144    2   236,287,    0,1353, uc058wfy.1  none    none    -1,-1,  none    BRCA2   none    none    nonCoding   havana_homo_sapiens retained_intron overlapping_locus   all
+```
+
+To μήκος του πρώτου μετάγραφου είναι: `32400268-32315085 = 85183`. Ποιος είναι ο μέσος όρος του μήκους όλων των μετάγραφων;
+
+3. Με τη χρήση κώδικα R βρείτε ποιο είναι το μετάγραφο με το μεγαλύτερο μήκος. 
+
+**ΠΡΟΣΟΧΗ!** Μην κάνετε αυτές τις πράξεις με το "χέρι". Αν το κάνετε δεν βαθμολογηθείτε για αυτή την άσκηση. Γράψτε κώδια σε R ο οποίος να θα έχει δύο συναρτήσεις:
+1. Η πρώτη συνάρτηση θα παίρνει σαν παράμετρο το όνομα ενός αρχείου και θα επιστρέφει το μέσο όρο των μετάγραφων που περιέχει το αρχείο.
+2. Η δεύτερη συνάρτηση θα παίρνει σαν παράμετρο το όνομα ενός αρχείου και θα επιστρέφει τον κωδικό του μετάγραφου με το μεγαλύτερο μήκος. 
+
+### Άσκηση 18
 .
+
+
+
 
 
 
