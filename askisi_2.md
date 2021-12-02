@@ -244,7 +244,7 @@ Hint:
 5. Στη πληροροφορία του track "Clinvar Variants" στη θέση που έχει εντοπιστεί η μετάλλαξη θα αναφέρεται το όνομα μίας ασθένειας. Ποια είναι αυτή;
 
 ### Άσκηση 15
-Ο σκοπός αυτής της άσκησης είναι να εξάγεται όλα τα 
+Ο σκοπός αυτής της άσκησης είναι να εξάγεται όλα τα μετάγραφα για το γονίδιο που βρίσκεται η μετάλλαξη που έχετε επιλέξει.
 
 1. Πηγαίνετε στο [Table Viewer του UCSC](https://genome.ucsc.edu/cgi-bin/hgTables).  
 2. Επιλέξτε: clade: `Mammal`, genome: `Human`, assembly: `Dec. 2013 (GRCh38/hg38)`, group: `Genes and Gene Predictions`, track: `GENCODE V38`, table: `knoenGene`, 
@@ -291,7 +291,23 @@ To μήκος του πρώτου μετάγραφου είναι: `32400268-323
 2. Η δεύτερη συνάρτηση θα παίρνει σαν παράμετρο το όνομα ενός αρχείου και θα επιστρέφει τον κωδικό του μετάγραφου με το μεγαλύτερο μήκος. 
 
 ### Άσκηση 18
-.
+Πηγαίνετε στο [biomart](https://www.ensembl.org/biomart/martview/) και κάνετε την εξής αναζήτηση:
+1. Στο "CHOOSE DATABΑSE" επιλέξτε: `Ensembl Variation 104`
+2. Στο "CHOOSE DATASET" επιλέξτε: `Human Short Variants (SNPs and indels excluding flagged variants) (GRCh38.p13)`
+3. Στα Filters επιλέξτε:
+   1. Region, Chromosome/scaffold, επιλέξτε το χρωμόσωμα που βρίσκεται η μετάλλαξη που έχετε επιλέξει
+   2. Στο GENE ASSOCIATED VARIANT FILTERS:
+      1. Gene stable ID(s) [Max 500 advised], βάλτε το ENSEMBLE GENE ID (ENSG....) του γονιδίου που βρίσκεται η μετάλλαξη που έχετε επιλέξει. 
+      2. Variant Consequence επιλέξτε `nonsynonymous_variant`. 
+5. Στο Attributes εκτώς από αυτά που έχει ήδη επιλέξει, προσθέστε:
+   1. VARIANT ASSOCIATED INFORMATION --> Variant Information: Global minor allele frequency (all individuals) 
+   2. GENE ASSOCIATED INFORMATION -->  Gene attribute  --> PolyPhen prediction , PolyPhen score  , SIFT prediction  , SIFT score  
+6. Στη συνέχεια πατήστε το Results. Επιλέξτε File: TSV, Τσεκάρετε το "Unique results only" και πατήστε "GO"
+
+[Σε αυτό το link](https://www.dropbox.com/s/y8inao6rli687nf/mart_export.txt?dl=0) μπορείτε να βρείτε το παράδειγμα που έβγαλε εμένα για το γονίδιο BRCA2.
+
+Ανοίξτε το αρχείο που έβγαλε σε εσάς από το NotePad (windows) ή από το TextEdit (Mac) και πάρτε ένα screenshot.
+
 
 
 
