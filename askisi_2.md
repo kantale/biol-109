@@ -400,11 +400,13 @@ VEGFA
 VLDLR
 ```
 
-Για κάθε στη λίστα:
+Για κάθε γονίδιο στη λίστα:
 1. Ποιο είναι το HGNC ID;
 2. Ποιο είναι το ENSEMBL ID;
 3. Ποιο είναι το NCBI Gene ID;
 4. Ποιο είναι το UniProt Accession Number;
+
+Φτιάξτε έναν πίνακα.
 
 Hint: Για αυτή την άσκηση μπορείτε να χρησιμοποιήσετε είτε το BioMart είτε το [Retrieve/ID mapping της UniProt](https://www.uniprot.org/uploadlists/).
 
