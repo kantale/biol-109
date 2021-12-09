@@ -420,7 +420,7 @@ VLDLR
 3. Ποιο είναι το NCBI Gene ID;
 4. Ποιο είναι το UniProt Accession Number;
 
-Φτιάξτε έναν πίνακα.
+Φτιάξτε έναν πίνακα στην αναφορά σας. Μπορείτε και να κάνετε copy paste από excel ή από R. 
 
 Hint: Για αυτή την άσκηση μπορείτε να χρησιμοποιήσετε είτε το BioMart είτε το [Retrieve/ID mapping της UniProt](https://www.uniprot.org/uploadlists/).
 
