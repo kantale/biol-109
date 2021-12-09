@@ -336,7 +336,7 @@ To μήκος του πρώτου μετάγραφου είναι: `32400268-323
 
 ### Άσκηση 18
 Πηγαίνετε στο [biomart](https://www.ensembl.org/biomart/martview/) και κάνετε την εξής αναζήτηση:
-1. Στο "CHOOSE DATABΑSE" επιλέξτε: `Ensembl Variation 104`
+1. Στο "CHOOSE DATABΑSE" επιλέξτε: `Ensembl Variation 104` (ή `Ensembl Variation 105`).
 2. Στο "CHOOSE DATASET" επιλέξτε: `Human Short Variants (SNPs and indels excluding flagged variants) (GRCh38.p13)`
 3. Στα Filters επιλέξτε:
    1. Region, Chromosome/scaffold, επιλέξτε το χρωμόσωμα που βρίσκεται η μετάλλαξη που έχετε επιλέξει
