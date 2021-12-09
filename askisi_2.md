@@ -293,7 +293,7 @@ Hint:
 1. Πηγαίνετε στο [Table Viewer του UCSC](https://genome.ucsc.edu/cgi-bin/hgTables).  
 2. Επιλέξτε: clade: `Mammal`, genome: `Human`, assembly: `Dec. 2013 (GRCh38/hg38)`, group: `Genes and Gene Predictions`, track: `GENCODE V38`, table: `knownGene`, 
 3. Στο region επιλέξτε: `genome`
-4. Στο filter επιλέξτε `edit`. Στη σελίδα που ανοίγει στο πεδίο `geneName` εισάγετε το όνομα του γονιδίου που βρίσκεται η μετάλλαξή σας. Στη συνέχεια πατήστε το κουμπί `Submit`
+4. Στο filter επιλέξτε `create` (ή `edit` αν έχετε ήδη φτιάξει ένα). Στη σελίδα που ανοίγει στο πεδίο `geneName` εισάγετε το όνομα του γονιδίου που βρίσκεται η μετάλλαξή σας. Στη συνέχεια πατήστε το κουμπί `Submit`
 5. Στο πεδίο "Output format" επιλέξτε `all fields from selected table`
 6. Στο output filename επιλέξτε ένα όνομα αρχείου το οποίο να τελειώνει `.csv`, για παράδειγμα: `askisi_15.csv`.
 7. Πατήστε το κουμπί `get output` έτσι ώστε να κατέβει ένα αρχείο με τα αποτελέσματα της αναζήτησής σας. 
