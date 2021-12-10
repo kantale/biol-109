@@ -321,6 +321,11 @@ Hint:
 
 Ανοίξτε το αρχείο που έχετε φτιάξει από την άσκηση 15 είτε με το Microsoft Excel, είτε με το LibreOffice (Calc Spreadsheet), είτε με το Google Sheets και πάρτε ένα screenshot. Θα πρέπει να φαίνεται ότι κάθε στήλη του αρχείου υπάρχει σε διαφορετική στήλη του προγράμματος που έχετε επιλέξει.
 
+Για να εμφανιστεί το κείμενο σε στήλες:
+1. Στο excel μπορείτε να κάνετε το [Convert Text to Columns](https://support.microsoft.com/en-us/office/split-text-into-different-columns-with-the-convert-text-to-columns-wizard-30b14928-5550-41f5-97ca-7a3e9c363ed7)
+2. Μπορείτε και να σώσετε το αρχείο με κατάληξη `.csv`  και να δοκιμάσετε να το ξανα-ανοίξετε. 
+
+
 ### Άσκηση 17
 (συνέχεια από 15)
 
