@@ -266,7 +266,7 @@ European     Sub     9690    T=1.0000    A=0.0000
 1. Πηγαίνετε στο site του [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway). 
 2. Εισάγετε το dbSNP κωδικό της μετάλλαξης που έχετε επιλέξει από την άσκηση 2 (εκεί που λέει "Position/Search Term ") και πατήστε GO.
 3. Κάντε zoom ώστε να φαίνονται όλα τα νουκλεοτίδια σε απόσταση 40bp (base pairs) πριν τη μετάλλαξη και 40bp μετά τη μετάλλαξη, θα πρέπει επίσης να φαίνεται και μία κάθετη γραμμή σε κίτρινη απόχρωση με τη θέση της μετάλλαξης. 
-4. Πάρτε ένα screenshot όπου να φαίνεται η μπάρα περιήγησης στην αρχή της σελίδας μαζί με τα tracks: "Base Position", "GENCODE V38", "NCBI RefSeq" (μπορεί το screenshot να έχει και άλλα tracks).
+4. Πάρτε ένα screenshot όπου να φαίνεται η μπάρα περιήγησης στην αρχή της σελίδας μαζί με τα tracks: "Base Position", "GENCODE V38", "NCBI RefSeq" (μπορεί το screenshot να έχει και άλλα tracks).  
 
 ### Άσκηση 10
 (συνέχεια από άσκηση 9)
@@ -398,6 +398,13 @@ To μήκος του πρώτου μετάγραφου είναι: `32400268-323
 1. Ποιο είναι το ποσοστό των γραμμών όπου η στήλη: `Global minor allele frequency (all individuals)` έχει τιμή μεγαλύτερη από 0.1;
 2. Πόσες είναι οι γραμμές όπου η στήλη `PolyPhen prediction` είναι `possibly damaging` και η στήλη `SIFT prediction` **δεν** είναι `deleterious`;
 3. Πόσες είναι οι γραμμές όπου στήλη `PolyPhen prediction` δεν είναι `benign` και η στήλη  `Global minor allele frequency (all individuals)` είναι μικρότερη από 0.05;
+
+
+Σημειώση: ένας τρόπος για να ανοίξετε το αρχείο με την R είναι (αντικαταστήστε το `Downloads/mart_export.txt` με το path του αρχείου στον υπολογιστή σας):
+
+```R
+biomart <- read.csv('Downloads/mart_export.txt', sep='\t')
+```
 
 ### Άσκηση 21
 Ανοίξτε το αρχείο που έχετε φτιάξει από την άσκηση 18 με την R (π.χ. με το RStudio) και φτιάξτε ένα barplot με τις διαφορετικές τιμές της στήλης `PolyPhen prediction`. Αποθηκεύστε το barplot σαν αρχείο png και κάντε το εισαγωγή στην αναφορά σας. 
