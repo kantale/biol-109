@@ -396,8 +396,8 @@ To μήκος του πρώτου μετάγραφου είναι: `32400268-323
 ### Άσκηση 20
 Ανοίξτε το αρχείο που έχετε φτιάξει από την άσκηση 18 με την R (π.χ. με το RStudio) και απαντήστε στις εξής ερωτήσεις:
 1. Ποιο είναι το ποσοστό των γραμμών όπου η στήλη: `Global minor allele frequency (all individuals)` έχει τιμή μεγαλύτερη από 0.1; Υπολογίστε αυτό το ποσοστό μόνο για τις γραμμές που δεν είναι `NA` (Not a Number). Η συνάρτηση `is.na` επιστρέφει `TRUE`/`FALSE` ανάλογα με το αν μία τιμή είναι NA ή όχι. Δοκιμάστε: `is.na(NA)`, `is.na(5)`, `is.na(c(1,2,NA,4))`.  
-2. Πόσες είναι οι γραμμές όπου η στήλη `PolyPhen prediction` είναι `possibly damaging` και η στήλη `SIFT prediction` **δεν** είναι `deleterious`;
-3. Πόσες είναι οι γραμμές όπου στήλη `PolyPhen prediction` δεν είναι `benign` και η στήλη  `Global minor allele frequency (all individuals)` είναι μικρότερη από 0.05;
+2. Πόσες είναι οι γραμμές όπου η στήλη `PolyPhen prediction` είναι `possibly damaging` και η στήλη `SIFT prediction` **δεν** είναι `deleterious`; Επίσης αγνοήστες τις γραμμές που οι στήλες `PolyPhen prediction` ή  `SIFT prediction` είναι `NA`. Αν δεν αφαιρέσετε αυτές τις γραμμές δεν είναι λάθος.
+3. Πόσες είναι οι γραμμές όπου στήλη `PolyPhen prediction` δεν είναι `benign` και η στήλη  `Global minor allele frequency (all individuals)` είναι μικρότερη από 0.05; Επίσης αγνοήστες τις γραμμές που οι στήλες `PolyPhen prediction` ή  `Global minor allele frequency (all individuals)` είναι `NA`. Αν δεν αφαιρέσετε αυτές τις γραμμές δεν είναι λάθος.
 
 
 Σημειώση: ένας τρόπος για να ανοίξετε το αρχείο με την R είναι (αντικαταστήστε το `Downloads/mart_export.txt` με το path του αρχείου στον υπολογιστή σας):
