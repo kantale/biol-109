@@ -9,7 +9,7 @@
 [Αλέξανδρος Καντεράκης](https://www.ics.forth.gr/cbml/person/Kanterakis/Alexandros%C2%A0).
 
 ## Επικοινωνία
-Για την άμεση επικοινωνία τόσο με τον διδάσκοντα όσο και με τους συμφοιτητές σας, θα πρέπει να γραφτείτε στο κανάλι slack: [biol-109workspace.slack.com](https://biol-109workspace.slack.com). Θα πρέπει να έχετε λάβει μέιλ με ένα invitation για να γραφτείτε, αν όχι, τότε στείλε [mail](mailto:kantale@ics.forth.gr).
+Για την άμεση επικοινωνία τόσο με τον διδάσκοντα όσο και με τους συμφοιτητές σας, θα πρέπει να γραφτείτε στο κανάλι slack: [biol-109workspace.slack.com](https://biol-109-workspace.slack.com). Θα πρέπει να έχετε λάβει μέιλ με ένα invitation για να γραφτείτε, αν όχι, τότε στείλε [mail](mailto:kantale@ics.forth.gr).
 
 Το μέιλ του διδάσκοντα είναι: [kantale@ics.forth.gr](mailto:kantale@ics.forth.gr). Χρησιμοποιήστε το μόνο αν δεν μπορεί να γίνει η επικοινωνία μέσω slack.
 
@@ -20,7 +20,11 @@
 3. Τελικές εξετάσεις Ιανουαρίου, με συμμετοχή 60% στη τελική βαθμολογία.
 
 ## Διαλέξεις:
-* Διάλεξη 1η (Πέμπτη 7 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/dua8ijggdj5izhq/BIOL_109_2021_lesson_1.pptx?dl=0)  [PDF](https://www.dropbox.com/s/a9py25m1vpd13ov/BIOL_109_2021_lesson_1.pdf?dl=0).
+* Διάλεξη 1η (Πέμπτη 29 Σεπτεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/tbvdeq509d9n5ru/BIOL_109_2022_lesson_1.pptx?dl=0) [PDF](https://www.dropbox.com/s/i53h6r0a3u5c7za/BIOL_109_2022_lesson_1.pdf?dl=0)
+
+
+## Παλιές διαλέξεις
+& Διάλεξη 1η (Πέμπτη 27 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/dua8ijggdj5izhq/BIOL_109_2021_lesson_1.pptx?dl=0)  [PDF](https://www.dropbox.com/s/a9py25m1vpd13ov/BIOL_109_2021_lesson_1.pdf?dl=0).
 * Διάλεξη 2η (Πέμπτη 14 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/i7e9xwwqeh5rfw8/BIOL_109_2021_lesson_2.pptx?dl=0)  [PDF](https://www.dropbox.com/s/qaxxo8t5tr3kc93/BIOL_109_2021_lesson_2.pdf?dl=0).
 * Διάλεξη 3η (Πέμπτη 21 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/6ck0rg9uhe7dp5q/BIOL_109_2021_lesson_3.pptx?dl=0)  [PDF](https://www.dropbox.com/s/ctpl8umifxd9sgb/BIOL_109_2021_lesson_3.pdf?dl=0).
 * Διάλεξη 4η (Πέμπτη 4 Νοεμβρίου 2021): [PowerPoint](https://www.dropbox.com/s/70ovmuwuhlb1h21/BIOL_109_2021_lesson_4.pptx?dl=0) [PDF](https://www.dropbox.com/s/smuk7clfit62m4q/BIOL_109_2021_lesson_4.pdf?dl=0).
