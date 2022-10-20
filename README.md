@@ -21,6 +21,9 @@
 
 ## Διαλέξεις:
 * Διάλεξη 1η (Πέμπτη 29 Σεπτεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/tbvdeq509d9n5ru/BIOL_109_2022_lesson_1.pptx?dl=0) [PDF](https://www.dropbox.com/s/i53h6r0a3u5c7za/BIOL_109_2022_lesson_1.pdf?dl=0)
+* Διάλεξη 2η (Πέμπτη 6 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/i7e9xwwqeh5rfw8/BIOL_109_2021_lesson_2.pptx?dl=0)  [PDF](https://www.dropbox.com/s/qaxxo8t5tr3kc93/BIOL_109_2021_lesson_2.pdf?dl=0).
+* Διάλεξη 3η (Πέμπτη 21 Οκτωβρίου 2021): [PowerPoint](https://www.dropbox.com/s/6ck0rg9uhe7dp5q/BIOL_109_2021_lesson_3.pptx?dl=0)  [PDF](https://www.dropbox.com/s/ctpl8umifxd9sgb/BIOL_109_2021_lesson_3.pdf?dl=0).
+
 
 
 ## Παλιές διαλέξεις
