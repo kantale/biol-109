@@ -27,7 +27,7 @@
 * Μετά που θα παραλάβετε τη βαθμολογία σας έχετε μία εβδομάδα για ενστάσεις σε περίπτωση που θεωρείται ότι έχει γίνει κάποιο λάθος. Μετά από αυτό ο βαθμός σας θα είναι τελικός.   
 
 ### Μέχρι πότε πρέπει να το στείλω;
-Θα πρέπει να έχετε στείλει το μέιλ με την υλοποίησή σας το αργότερα μέχρι τις **25 Νοεμβρίου 2021, 23:59**. 
+Θα πρέπει να έχετε στείλει το μέιλ με την υλοποίησή σας το αργότερα μέχρι τις **30 Νοεμβρίου 2022, 23:59**. 
 
 ### Σημειώσεις 
 * Με τον όρο "browser" εννοούμε το πρόγραμμα που χρησιμοποιείται για το Internet. Συνήθως είναι το Microsoft Explorer, Microsoft Edge, Firefox, Safari, Chrome. 
@@ -64,16 +64,17 @@ Mac:
 ### Άσκηση 3 
 Ας υποθέσουμε ότι έχουμε τον εξής δυαδικό αριθμό:
 ```
-1Χ0Υ1
+1ΧΖΥ0
 ```
 Όπου:
 * Το Χ είναι 0 αν ο μήνας που γεννηθήκατε είναι μονός (περιττός) αλλιώς είναι 1
 * Το Υ είναι 0 αν η μέρα που γεννηθήκατε είναι μονός αριθμός (περιττός) αλλιώς είναι 1
+* Το Ζ είναι 0 αν το επίθετό σας ξεκινάει από φωνήεν αλλιώς είναι 1
 
-Πως είναι δεκαδικό σύστημα ο αριθμός που σχηματίστηκε;
+Πως είναι στο δεκαδικό σύστημα ο αριθμός που σχηματίστηκε;
 
 ### Άσκηση 4
-Στα δημοτικά σχολεία της Ελλάδας φοιτούν περίπου 600.000 μαθητές. Ας υποθέσουμε ότι θέλουμε να δώσουμε έναν μοναδικό δυαδικό αριθμό σε κάθε μαθητή. Ποιος είναι ο ελάχιστος αριθμός από bits που μπορούμε να χρησιμοποιήσουμε; 
+Στα δημοτικά σχολεία της Ελλάδας φοιτούν περίπου 620.000 μαθητές. Ας υποθέσουμε ότι θέλουμε να δώσουμε έναν μοναδικό δυαδικό αριθμό σε κάθε μαθητή. Ποιος είναι ο ελάχιστος αριθμός από bits που μπορούμε να χρησιμοποιήσουμε; 
 * Hint: Χρησιμοποιώντας το δεκαδικό θα πρέπει να χρησιμοποιήσουμε τουλάχιστον 5 ψηφία (από 000000 έως 599999). Στο δυαδικό πόσα;
 
 ### Άσκηση 5
@@ -82,11 +83,17 @@ Mac:
 
 * Το Α είναι 0 αν ο μήνας που γεννηθήκατε είναι μονός (περιττός) αλλιώς είναι 1
 * Το Β είναι 0 αν η μέρα που γεννηθήκατε είναι μονή (περιττή) αλλιώς είναι 1
-* Το Γ είναι 0 αν το έτος που γεννηθήκατε είναι μόνό αλλιώς είναι 1
+* Το Γ είναι 0 αν το έτος που γεννηθήκατε είναι μονό αλλιώς είναι 1
 * Το Δ είναι 0 αν το επίθετό σας ξεκινάει από φωνήεν αλλιώς είναι 1
 * Το Ε είναι 0 αν το όνομά σας ξεκινάει από φωνήεν αλλιώς είναι 1
 
-Ποιο είναι το διάστημα (σε δεκαδικούς αριθμούς) που ανήκει η μέτρηση που έχει πάρει το θερμόμετρο; Πρέπει δηλαδή να δώσετε ένα αριθμητικό διάστημα (π.χ από 10 μέχρι 20 βαθμούς).
+Ποιο είναι το διάστημα (σε δεκαδικούς αριθμούς) που ανήκει η μέτρηση που έχει πάρει το θερμόμετρο; 
+
+Σημείωσεις:
+* Πρέπει να δώσετε ένα αριθμητικό διάστημα (π.χ από 10 μέχρι 20 βαθμούς).
+* Η μικρότερη μέτρηση που μπορεί να στείλει το θερμόμετρο είναι `00000`
+* H μεγαλύτερη μέτρηση που μπορεί να στείλει το θερμόμετρο είναι `11111`
+* Κάθε μέτρηση του θερμόμετρου αντιστοιχεί σε ένα διάστημα το οποίο έχει το ίδιο μέγεθος. 
 
 
 ### Άσκηση 6
@@ -111,10 +118,13 @@ Mac:
 
 ```
 DATA
-    experiment_1
+    protein
                 Homo_sapiens
                 Mus_musculus
-    experiment_2
+    RNA
+                Homo_sapiens
+                Mus_musculus
+    DNA
                 Homo_sapiens
                 Mus_musculus
 Report
@@ -123,7 +133,7 @@ Report
 
 ```
 
-Θα πρέπει δηλαδή να φτιάξετε συνολικά 10 καταλόγους. Για παράδειγμα ο φάκελο `experiment_1` θα πρέπει να βρίσκεται μέσα στον φάκελο `DATA`.
+Θα πρέπει δηλαδή να φτιάξετε συνολικά 13 καταλόγους. Για παράδειγμα ο φάκελο `RNA` θα πρέπει να βρίσκεται μέσα στον φάκελο `DATA`.
 
 Πάρτε ένα screenshot που να φαίνεται η δομή των καταλόγων που έχετε φτιάξει. Ένα **παράδειγμα** παρόμοιου screenshot φαίνεται στη διαφάνεια 43 της πρώτης διάλεξης.
 
@@ -150,7 +160,7 @@ Report
 
 Στη συνέχεια:
 * ανοίξτε το PNG αρχείο με τον browser σας και επιλέξτε να κάνετε zoom όσο μπορείτε. Παρατηρείστε ότι όσο κάνετε zoom χάνεται η ποιότητα. Πάρτε ένα screenshot με το μέγιστο zoom που μπορεί να κάνει το browser σας. Για να κάνετε zoom μπορείτε να πάτε View-->Zoom in (ή κάτι παρόμοιο) 
-* ανοίξτε το SVG αρχείο με τον browser σας και επιλέξτε να κάνετε zoom όσο μπορείτε. Παρατηρείστε ότι όσο κάνετε zoom **ΔΕΝ** χάνεται η ποιότητα. Πάρτε ένα screenshot με το μέγιστο zoom που μπορεί να κάνει το browser σας. 
+* ανοίξτε το SVG αρχείο με τον browser σας και επιλέξτε να κάνετε zoom όσο μπορείτε. Παρατηρείστε ότι όσο κάνετε zoom **ΔΕΝ** χάνεται η ποιότητα. Πάρτε ένα screenshot με το μέγιστο zoom που μπορεί να κάνει o browser σας. 
 
 ### Άσκηση 14
 Πηγαίνετε σε αυτό το site: https://thesecatsdonotexist.com/.  Επιλέξτε μία τυχαία τεχνητή(!) γάτα, κάνετε δεξί κλικ και επιλέξτε Copy Image (αντιγραφή εικόνας). Στη συνέχεια:
@@ -166,8 +176,6 @@ Report
 
 1. **Προαιρετικό:**. Πάρετε ένα screenshot στο οποίο να φαίνεται ποιο είναι το sample rate της ηχογράφησης
 2. **Προαιρετικό:**. Πάρτε ένα screenshot στο οποίο να φαίνεται ποιο είναι bit rate ή το bit depth της ηχογράφησης.  
-
-
 
 
 ### Άσκηση 16
@@ -250,29 +258,29 @@ Report
 Στο κείμενό σας προσθέστε το ακόλουθο κείμενο με γραμματοσειρά η οποία να είναι monospace και μέγεθος 9pt:
 ```
 ORIGIN      
-        1 agaggcggag ccgctgtggc actgctgcgc ctctgctgcg cctcgggtgt cttttgcggc
-       61 ggtgggtcgc cgccgggaga agcgtgaggg gacagatttg tgaccggcgc ggtttttgtc
-      121 agcttactcc ggccaaaaaa gaactgcacc tctggagcgg gttagtggtg gtggtagtgg
-      181 gttgggacga gcgcgtcttc cgcagtccca gtccagcgtg gcgggggagc gcctcacgcc
-      241 ccgggtcgct gccgcggctt cttgcccttt tgtctctgcc aacccccacc catgcctgag
-      301 agaaaggtcc ttgcccgaag gcagattttc gccaagcaaa ttcgagcccc gccccttccc
-      361 tgggtctcca tttcccgcct ccggcccggc ctttgggctc cgccttcagc tcaagactta
-      421 acttccctcc cagctgtccc agatgacgcc atctgaaatt tcttggaaac acgatcactt
-      481 taacggaata ttgctgtttt ggggaagtgt tttacagctg ctgggcacgc tgtatttgcc
-      541 ttacttaagc ccctggtaat tgctgtattc cgaagacatg ctgatgggaa ttaccaggcg
-      601 gcgttggtct ctaactggag ccctctgtcc ccactagcca cgcgtcactg gttagcgtga
-      661 ttgaaactaa atcgtatgaa aatcctcttc tctagtcgca ctagccacgt ttcgagtgct
-      721 taatgtggct agtggcaccg gtttggacag cacagctgta aaatgttccc atcctcacag
-      781 taagctgtta ccgttccagg agatgggact gaattagaat tcaaacaaat tttccagcgc
-      841 ttctgagttt tacctcagtc acataataag gaatgcatcc ctgtgtaagt gcattttggt
-      901 cttctgtttt gcagacttat ttaccaagca ttggaggaat atcgtaggta aaaatgccta
-      961 ttggatccaa agagaggcca acattttttg aaatttttaa gacacgctgc aacaaagcag
+        1 ctcaaaagtc tagagccacc gtccagggag caggtagctg ctgggctccg gggacacttt
+       61 gcgttcgggc tgggagcgtg ctttccacga cggtgacacg cttccctgga ttggcagcca
+      121 gactgccttc cgggtcactg ccatggagga gccgcagtca gatcctagcg tcgagccccc
+      181 tctgagtcag gaaacatttt cagacctatg gaaactactt cctgaaaaca acgttctgtc
+      241 ccccttgccg tcccaagcaa tggatgattt gatgctgtcc ccggacgata ttgaacaatg
+      301 gttcactgaa gacccaggtc cagatgaagc tcccagaatg ccagaggctg ctccccccgt
+      361 ggcccctgca ccagcagctc ctacaccggc ggcccctgca ccagccccct cctggcccct
+      421 gtcatcttct gtcccttccc agaaaaccta ccagggcagc tacggtttcc gtctgggctt
+      481 cttgcattct gggacagcca agtctgtgac ttgcacgtac tcccctgccc tcaacaagat
+      541 gttttgccaa ctggccaaga cctgccctgt gcagctgtgg gttgattcca cacccccgcc
+      601 cggcacccgc gtccgcgcca tggccatcta caagcagtca cagcacatga cggaggttgt
+      661 gaggcgctgc ccccaccatg agcgctgctc agatagcgat ggtctggccc ctcctcagca
+      721 tcttatccga gtggaaggaa atttgcgtgt ggagtatttg gatgacagaa acacttttcg
+      781 acatagtgtg gtggtgccct atgagccgcc tgaggttggc tctgactgta ccaccatcca
+      841 ctacaactac atgtgtaaca gttcctgcat gggcggcatg aaccggaggc ccatcctcac
+      901 catcatcaca ctggaagact ccagtggtaa tctactggga cggaacagct ttgaggtgcg
+      961 tgtttgtgcc tgtcctggga gagaccggcg cacagaggaa gagaatctcc gcaagaaagg
 ```
 
 Μία από τις γραμματοσειρές που είναι monospace και έχει ο υπολογιστής σας είναι η "Courier New".
 
 ### Άσκηση 21
-Στο κείμενο σας προσθέστε το παρακάτω κείμενο: "THIS IS A TEST" (χωρίς τα εισαγωγικά) με πράσινο background και μπλε foreground (ή highlight color ή marker  color)
+Στο κείμενο σας προσθέστε το παρακάτω κείμενο: "THIS IS A TEST" (χωρίς τα εισαγωγικά) με πράσινο background και μπλε foreground (ή highlight color ή marker color)
 
 ### Άσκηση 22
 Στο κείμενό σας προσθέστε το κείμενο "This is a test" (χωρίς τα εισαγωγικά), το οποίο να είναι έντονο (bold) και υπογραμμισμένο (underline)
@@ -315,11 +323,14 @@ ORIGIN
 ### Άσκηση 25
 Προσθέστε στο κείμενό σας τον παρακάτω πίνακα:
 
-![img](https://i.imgur.com/eKLqJbS.png) 
+![img](https://i.imgur.com/eYACwPO.png) 
 
-Αν δεν είσαστε στο Google docs, προσθέστε του το caption: "My grass growth". Προσθέσετε επίσης τη φράση: "As we can see from Table 2, Trial E did not show any progress", όπου το 2 στο "Table 2" πρέπει να είναι cross reference στον πίνακα. Προσοχή! Μην βάλετε τον πίνακα αυτό σαν image μέσω copy-paste. Τον πίνακα θα πρέπει να τον φτιάξετε (αναπαράγετε) εσείς. 
+Αν δεν είσαστε στο Google docs, προσθέστε στον πίνακα το caption: "Potential risk factors for increased fear of COVID-19 (PRF) and age.". Προσθέσετε επίσης τη φράση: "As we can see from Table 2, very few participanta had contacted the virus", όπου το 2 στο "Table 2" πρέπει να είναι cross reference στον πίνακα. Προσοχή! Μην βάλετε τον πίνακα αυτό σαν image μέσω copy-paste. Τον πίνακα θα πρέπει να τον φτιάξετε (αναπαράγετε) εσείς. 
 
-Σημείωση: θεωρούμε ότι ο πίνακας 1 (table 1), στο κείμενό σας, θα είναι ο πίνακας από την άσκηση 24. Αν δεν υλοποιήσετε την άσκηση 24 με πίνακα (ή απλά αν δεν υλοποιήσετε την άσκηση 24), τότε μπορείτε να βάλετε "As we can see from Table 1", σε αυτή την άσκηση. 
+Σημειώσεις: 
+* θεωρούμε ότι ο πίνακας 1 (table 1), στο κείμενό σας, θα είναι ο πίνακας από την άσκηση 24. Αν δεν υλοποιήσετε την άσκηση 24 με πίνακα (ή απλά αν δεν υλοποιήσετε την άσκηση 24), τότε μπορείτε να βάλετε "As we can see from Table 1...", σε αυτή την άσκηση. 
+* Χρησιμοποιήστε γραμματοσειρά 8pt για να χωρέσει όλο το κείμεμνο 
+* Ο πίνακας προέρχεται από [αυτή τη δημοσίσευση](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.00821/full)
 
 
 ### Άσκηση 26
@@ -350,7 +361,7 @@ ORIGIN
 ![img](https://i.imgur.com/3IFdQBu.png)
 
 ### Άσκηση 29
-Κάντε paste without formatting τη 1η παράγραφο του άρθρου της wikipedia που βρίσκεται στο link: https://en.wikipedia.org/wiki/Biology. Δηλαδή ξεκινήστε από "Biology is the scientific study of life.." μέχρι το "...through their biophysical environment". Στο κείμενο που θα αντιγράψετε δεν πρέπει να υπάρχουν σύνδεσμοι.
+Κάντε paste without formatting τη 1η παράγραφο του άρθρου της wikipedia που βρίσκεται στο link: https://en.wikipedia.org/wiki/DNA. Δηλαδή ξεκινήστε από "Deoxyribonucleic acid is a.." μέχρι το "...all known forms of life". Στο κείμενο που θα αντιγράψετε δεν πρέπει να υπάρχουν σύνδεσμοι και έντολο (bold) κειμενο.
 
 ### Άσκηση 30
 Προσθέστε δύο τυχαία σχόλια σε οποιαδήποτε σημεία του κειμένου της εργασίας σας. Δηλαδή να προσθέσετε δύο τυχαία σχόλια σε οποιαδήποτε τμήματα προηγούμενων ασκήσεων.
