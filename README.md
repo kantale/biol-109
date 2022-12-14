@@ -28,6 +28,9 @@
 * Διάλεξη 6η (Πέμπτη 3 Νοεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/28dmf4l95flm692/BIOL-109_2021_lesson_6.pptx?dl=0) [PDF](https://www.dropbox.com/s/lwb6enxkkpbjnfb/BIOL-109_2021_lesson_6.pdf?dl=0).
 * Διάλεξη 7η (Πέμπτη 10 Νοεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/3ov174p1d05tsya/BIOL_109_2021_lesson_7.pptx?dl=0) [PDF](https://www.dropbox.com/s/wlqqv6pxb3fc3r6/BIOL_109_2021_lesson_7.pdf?dl=0).
 * Διάλεξη 8η (Τρίτη 29 Νοεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/lz96wxfa61efki7/BIOL_109_2021_lesson_8.pptx?dl=0) [PDF](https://www.dropbox.com/s/rggc5vjd4cnu12l/BIOL_109_2021_lesson_8.pdf?dl=0).
+* Διάλεξη 9η (Πέμπτη 1 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/yegncfpgojdifuj/BIOL_109_2021_lesson_9.pptx?dl=0) [PDF](https://www.dropbox.com/s/38g7h1vocw7bvhf/BIOL_109_2021_lesson_9.pdf?dl=0s).
+* Διάλξε 10η (Τρίτη 6 Δεκεμβρίου 2022): PowerPoint](https://www.dropbox.com/s/a9s56zbuz6r8gx7/BIOL_109_2021_lesson_10.pptx?dl=0) [PDF](https://www.dropbox.com/s/5om1lkvo2xpkots/BIOL_109_2021_lesson_10.pdf?dl=0).
+* Διάλεξη 11η (Πέμπτη 8 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/nn3u3b1l4jkmag4/BIOL_109_2021_lesson_11.pptx?dl=0) [PDF](https://www.dropbox.com/s/jbjejxky47ijty2/BIOL_109_2021_lesson_11.pdf?dl=0).
 
 
 
@@ -52,6 +55,7 @@
 Παρακάτω ακολουθεί η λίστα με τις ασκήσεις για το χειμερινό εξάμηνο 2022-2021. Εκεί θα βρείτε οδηγίες για το τι πρέπει να κάνετε, πως θα στείλετε την εργασία, πως θα βαθμολογηθείτε, και ποια είναι η διορία παράδοσης. **Στείλτε ό,τι απορίες έχετε στο slack!**.
 
    * [1η σειρά ασκήσεων](askisi_1.md). Μετράει για το 20% του βαθμούς σας. Ημερομηνία παράδοσης: 30 Νοεμβρίου 2022
+   * [2η σειρά ασκήσεων](askisi_2.md). Μετράει για το 20% του βαθμούς σας. Ημερομηνία παράδοσης: 10 Ιανουαρίου 2023
 
 
 ### 2021-2022
