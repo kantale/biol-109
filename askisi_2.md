@@ -318,13 +318,15 @@ Hint:
 Ο σκοπός αυτής της άσκησης είναι να εξάγεται όλα τα μετάγραφα για το γονίδιο που βρίσκεται η μετάλλαξη που έχετε επιλέξει στην άσκηση 2.
 
 1. Πηγαίνετε στο [Table Viewer του UCSC](https://genome.ucsc.edu/cgi-bin/hgTables).  
-2. Επιλέξτε: clade: `Mammal`, genome: `Human`, assembly: `Dec. 2013 (GRCh38/hg38)`, group: `Genes and Gene Predictions`, track: `GENCODE V38`, table: `knownGene`, 
+2. Επιλέξτε: clade: `Mammal`, genome: `Human`, assembly: `Dec. 2013 (GRCh38/hg38)`, group: `Genes and Gene Predictions`, track: `GENCODE V41`, table: `knownGene`, 
 3. Στο region επιλέξτε: `genome`
 4. Στο filter επιλέξτε `create` (ή `edit` αν έχετε ήδη φτιάξει ένα). Στη σελίδα που ανοίγει στο πεδίο `geneName` εισάγετε το όνομα του γονιδίου που βρίσκεται η μετάλλαξή σας. Στη συνέχεια πατήστε το κουμπί `Submit`
 5. Στο πεδίο "Output format" επιλέξτε `all fields from selected table`
 6. Στο output filename επιλέξτε ένα όνομα αρχείου το οποίο να τελειώνει `.csv`, για παράδειγμα: `askisi_15.csv`.
 7. Πατήστε το κουμπί `get output` έτσι ώστε να κατέβει ένα αρχείο με τα αποτελέσματα της αναζήτησής σας. 
 8. Ανοίξτε το αρχείο αυτό από το NotePad (windows) ή από το TextEdit (Mac) και πάρτε ένα screenshot.
+
+Σημείωση (21 Δεκεμβρίου 2022): Μία παλιότερη έκδοση αυτής της άσκησης έλεγε να χρησιμοποιήσετε το track `GENCODE V38`, αυτό είχε σαν συνέπεια να μην εμφανίζεται το table: `knownGene`. 
 
 ### Άσκηση 16
 (συνέχεια από 15)
