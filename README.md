@@ -31,6 +31,8 @@
 * Διάλεξη 9η (Πέμπτη 1 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/yegncfpgojdifuj/BIOL_109_2021_lesson_9.pptx?dl=0) [PDF](https://www.dropbox.com/s/38g7h1vocw7bvhf/BIOL_109_2021_lesson_9.pdf?dl=0s).
 * Διάλξε 10η (Τρίτη 6 Δεκεμβρίου 2022): PowerPoint](https://www.dropbox.com/s/a9s56zbuz6r8gx7/BIOL_109_2021_lesson_10.pptx?dl=0) [PDF](https://www.dropbox.com/s/5om1lkvo2xpkots/BIOL_109_2021_lesson_10.pdf?dl=0).
 * Διάλεξη 11η (Πέμπτη 8 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/nn3u3b1l4jkmag4/BIOL_109_2021_lesson_11.pptx?dl=0) [PDF](https://www.dropbox.com/s/jbjejxky47ijty2/BIOL_109_2021_lesson_11.pdf?dl=0).
+* Διάλεξη 12η (Πέμπτη 15 Δεκεμβρίου 2022):  [PowerPoint](https://www.dropbox.com/s/uz96zcl1gm9620j/BIOL_109_2021_lesson_12.pptx?dl=0) [PDF](https://www.dropbox.com/s/wvxd0dav4uzyqt6/BIOL_109_2021_lesson_12.pdf?dl=0).
+* Διάλεξη 13η (Τρίτη 20 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/i923ugguvqvn3io/BIOL_109_2021_lesson_13.pptx?dl=0) [PDF](https://www.dropbox.com/s/l2pmdawgkpelva2/BIOL_109_2021_lesson_13.pdf?dl=0).
 
 
 
