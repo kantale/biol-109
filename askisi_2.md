@@ -336,7 +336,7 @@ getSqlType: no results for query "NOSQLINJ describe knownGene geneName".
 ```
 
 Αν συμβεί αυτό, ένας άλλος τρόπος να εξάγετε αυτό το αρχείο είναι να αντικαταστήσετε τα βήματα 2,4 με τα παρακάτω:
-   * Βήμα 2:. στο `track` να επιλέξετε `ALL GENCODE V42`. Στη συνέχεια στο table επιλέξτε `Basic (wgEncodeGencodeBasicV42)` 
+   * Βήμα 2: Στο `track` να επιλέξετε `ALL GENCODE V42`. Στη συνέχεια στο table επιλέξτε `Basic (wgEncodeGencodeBasicV42)` 
    * Βήμα 4: Στο filter επιλέξτε `create` (ή `edit` αν έχετε ήδη φτιάξει ένα). Στη σελίδα που ανοίγει στο πεδίο `name2` εισάγετε το όνομα του γονιδίου που βρίσκεται η μετάλλαξή σας. Στη συνέχεια πατήστε το κουμπί `Submit`.
 
 
@@ -389,7 +389,7 @@ To μήκος του πρώτου μετάγραφου είναι: `32400268-323
 
 ### Άσκηση 18
 Πηγαίνετε στο [biomart](https://www.ensembl.org/biomart/martview/) και κάνετε την εξής αναζήτηση:
-1. Στο "CHOOSE DATABΑSE" επιλέξτε: `Ensembl Variation 104` (ή `Ensembl Variation 105`).
+1. Στο "CHOOSE DATABΑSE" επιλέξτε: `Ensembl Variation 108` (ή `Ensembl Variation 107`).
 2. Στο "CHOOSE DATASET" επιλέξτε: `Human Short Variants (SNPs and indels excluding flagged variants) (GRCh38.p13)`
 3. Στα Filters επιλέξτε:
    1. Region, Chromosome/scaffold, επιλέξτε το χρωμόσωμα που βρίσκεται η μετάλλαξη που έχετε επιλέξει
