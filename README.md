@@ -29,7 +29,7 @@
 * Διάλεξη 7η (Πέμπτη 10 Νοεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/3ov174p1d05tsya/BIOL_109_2021_lesson_7.pptx?dl=0) [PDF](https://www.dropbox.com/s/wlqqv6pxb3fc3r6/BIOL_109_2021_lesson_7.pdf?dl=0).
 * Διάλεξη 8η (Τρίτη 29 Νοεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/lz96wxfa61efki7/BIOL_109_2021_lesson_8.pptx?dl=0) [PDF](https://www.dropbox.com/s/rggc5vjd4cnu12l/BIOL_109_2021_lesson_8.pdf?dl=0).
 * Διάλεξη 9η (Πέμπτη 1 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/yegncfpgojdifuj/BIOL_109_2021_lesson_9.pptx?dl=0) [PDF](https://www.dropbox.com/s/38g7h1vocw7bvhf/BIOL_109_2021_lesson_9.pdf?dl=0s).
-* Διάλξε 10η (Τρίτη 6 Δεκεμβρίου 2022): PowerPoint](https://www.dropbox.com/s/a9s56zbuz6r8gx7/BIOL_109_2021_lesson_10.pptx?dl=0) [PDF](https://www.dropbox.com/s/5om1lkvo2xpkots/BIOL_109_2021_lesson_10.pdf?dl=0).
+* Διάλξε 10η (Τρίτη 6 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/a9s56zbuz6r8gx7/BIOL_109_2021_lesson_10.pptx?dl=0) [PDF](https://www.dropbox.com/s/5om1lkvo2xpkots/BIOL_109_2021_lesson_10.pdf?dl=0).
 * Διάλεξη 11η (Πέμπτη 8 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/nn3u3b1l4jkmag4/BIOL_109_2021_lesson_11.pptx?dl=0) [PDF](https://www.dropbox.com/s/jbjejxky47ijty2/BIOL_109_2021_lesson_11.pdf?dl=0).
 * Διάλεξη 12η (Πέμπτη 15 Δεκεμβρίου 2022):  [PowerPoint](https://www.dropbox.com/s/uz96zcl1gm9620j/BIOL_109_2021_lesson_12.pptx?dl=0) [PDF](https://www.dropbox.com/s/wvxd0dav4uzyqt6/BIOL_109_2021_lesson_12.pdf?dl=0).
 * Διάλεξη 13η (Τρίτη 20 Δεκεμβρίου 2022): [PowerPoint](https://www.dropbox.com/s/i923ugguvqvn3io/BIOL_109_2021_lesson_13.pptx?dl=0) [PDF](https://www.dropbox.com/s/l2pmdawgkpelva2/BIOL_109_2021_lesson_13.pdf?dl=0).
@@ -76,8 +76,9 @@
 
 Η τελική εξέταση δεν θα περιέχει την ύλη των 2 τελευταίων διαλέξεων (12η και 13η).
 
-* [Σύνδεσμος με τα θέματα της εξέτασης, Ιανουάριους 2022](https://www.dropbox.com/s/doil2jrue4qcq0q/final_january_27_1_2022.docx?dl=0)
+* [Σύνδεσμος με τα θέματα της εξέτασης, Ιανουαρίου 2022](https://www.dropbox.com/s/doil2jrue4qcq0q/final_january_27_1_2022.docx?dl=0)
 * [Σύνδεσμος με τα θέματα της εξέτασης, Σεπτεμβρίου 2022](https://www.dropbox.com/s/29bohwij3lcxnw1/final_september_16_9_2022.docx?dl=0)
+* [Σύνδεσμας με τα θέματα της εξέτασης, Ιανουαρίου 2023](https://www.dropbox.com/s/z2vqjs1xnasgiss/final_18_january_2023.docx?dl=0)
 
 ## Τελικές εξετάσεις Σεπτεμβρίου
 Για τις επαναληπτικές εξετάσεις του Σεπτεμβρίου, διατηρούνται οι βαθμοί των ασκήσεων. Δηλαδή ο βαθμός του Σεπτεμβρίου θα μετρήσει για το 60% της τελικής βαθμολογίας (όπως και με τον βαθμό της τελικής εξέτασης του Ιανουαρίου).
